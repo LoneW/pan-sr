@@ -2,9 +2,7 @@
 
 code can be found [here](https://github.com/LoneW/pan-sr/)
 
-
-
-###face results comparison with SOFAs
+### face results comparison with SOFAs
 ![Image](./comparison/exp1.jpg)
 
 ![Image](./comparison/exp2.jpg)
@@ -17,11 +15,11 @@ code can be found [here](https://github.com/LoneW/pan-sr/)
 
 ![Image](./comparison/comp.jpg)
 
-###cat results comparison with SOFAs
+### cat results comparison with SOFAs
 ![Image](./comparison/cat.jpg)
 
 
-###results for degraded images
+### results for degraded images
 ![Image](./comparison/degrad.jpg)
 
 
