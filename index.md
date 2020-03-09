@@ -2,7 +2,7 @@
 
 code can be found [here](https://github.com/LoneW/pan-sr/)
 
-### face results comparison with SOFAs
+### face results comparison with SOTAs
 ![Image](./comparison/exp1.jpg)
 
 ![Image](./comparison/exp2.jpg)
